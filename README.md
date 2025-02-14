@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ehab8336@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/qMQ34](https://shorturl.at/qMQ34)
+<!-- 📄 Know about my experiences [https://shorturl.at/qMQ34](https://shorturl.at/qMQ34) -->
 
 - ⚡ Fun fact **I think I am not Funny**
 
