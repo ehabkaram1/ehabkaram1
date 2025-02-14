@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabkaram1&label=Profile%20views&color=0e75b6&style=flat" alt="ehabkaram1" /> </p>
 
-- 🔭 I’m currently working on **Ping.com**
+<!-- 🔭 I’m currently working on **Ping.com**-->
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
