@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabkaram1&label=Profile%20views&color=0e75b6&style=flat" alt="ehabkaram1" /> </p>
 
 
-- 💬 Ask me about **Java,JavaScript,Spring,Swift,React**
+- 💬 Ask me about **Java,JavaScript,Spring,Swift and React**
 
 - 📫 How to reach me **ehab8336@gmail.com**
 
