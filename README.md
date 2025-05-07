@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehabkaram1&label=Profile%20views&color=0e75b6&style=flat" alt="ehabkaram1" /> </p>
 
-<!-- 🔭 I’m currently working on **Ping.com**-->
-
-- 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **Python, Java, React**
 
 - 📫 How to reach me **ehab8336@gmail.com**
 
-<!-- 📄 Know about my experiences [https://shorturl.at/qMQ34](https://shorturl.at/qMQ34) -->
 
 - ⚡ Fun fact **I think I am not Funny**
 
