@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ehab Karamullah
 My name is Ehab Karamullah. I recently completed my Master's degree in Computer Science 🎓 at DePaul University, Chicago.
 - Former Graduate Assistant & Tutor at DePaul's Jarvis College of Computing and Digital Media
-- Software developer with international experience (DAZN, Blueyond)
+- Software developer with international experience (DAZN, Blueyonder)
 - I enjoy optimizing workflows, building impactful software, and helping others through mentoring and collaboration.
 
 ## 🌐 Socials
